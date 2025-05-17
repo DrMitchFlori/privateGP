@@ -1,0 +1,38 @@
+# Python related
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+ENV/
+venv.bak/
+.env/
+
+# Node related
+node_modules/
+
+# Package distributions
+build/
+dist/
+*.egg-info/
+
+# Logs and coverage
+*.log
+coverage/
+
+# IDE settings
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.swp
+*~
