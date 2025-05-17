@@ -1,0 +1,40 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.so
+# Virtual env
+venv/
+ENV/
+.venv/
+# Node artifacts
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+# Byte-compiled / optimized / DLL files
+*.pyc
+*.pyo
+*.pyd
+# C extensions
+*.so
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+# Logs
+*.log
+# Coverage reports
+.coverage
+htmlcov/
+# Local configuration
+.env
+*.local
+# Miscellaneous
+*.swp
+*.swo
+*~
